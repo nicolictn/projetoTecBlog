@@ -1,0 +1,106 @@
+body {
+    background: rgb(245, 245, 245);
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: auto;
+}
+a {
+    color: rgb(255, 255, 255);
+    /* border: red solid 1px; */
+    text-decoration: none;
+    padding: 18px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: rgb(255, 238, 0) ;
+    background: rgb(255, 255, 255);
+} 
+
+h1 {
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: rgb(255, 196, 0);
+}
+
+#menu {
+    background: rgb(255, 220, 24) 100%;
+    text-align: center;
+    /* border: red solid 1px; */
+    padding: 20px 0px;
+    margin: 0px;
+}
+
+#pgrecente {
+    background: white;
+    /* border: red solid 1px; */
+    width: 370px;
+    padding: 5px 12px;
+    position: absolute;
+    top: 278px;
+    right: 118px;
+    height: 260px;
+} 
+
+#pgrecente2 {
+    background: white;
+    /* border: red solid 1px; */
+    width: 370px;
+    height: 210px;
+    padding: 5px 12px;
+    position: absolute;
+    top: 575px;
+    right: 118px;
+    /*display: inline-block*/
+} 
+
+.conteudo {
+    background: white;
+    width: 650px;
+    /* border: red solid 1px; */
+    margin: 5px 110px;
+    padding: 10px 26px;
+} 
+
+
+
+.titulos {
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(82, 82, 82);
+    background: rgb(196, 196, 196);
+    padding: 8px 15px;
+    margin: 5px;
+}
+
+.formatacao1 {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    padding: 5px 15px;
+    margin: 5px;
+
+}
+
+.formatacao2 {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 196, 0);
+    padding: 30px 15px;
+    margin: 5px;
+
+}
+
+.centralizar {
+    text-align: center;
+    /* border: red solid 1px; */
+    background: rgb(201, 201, 201);
+    padding: 40px 30px;
+    margin: 110px;
+    width: center;
+ 
+}
